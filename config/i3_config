@@ -508,7 +508,7 @@ set $urgentred   #f05050
 
 # define colors for windows:
 #class		        	border		bground		text		indicator	child_border
-client.focused             $lightgrey   $darkgrey    $black      $grey        $grey
+client.focused             $urgentred   $darkgrey    $white      $urgentred   $urgentred
 client.unfocused           $darkgrey    $darkgrey    $mediumgrey $black       $black
 client.focused_inactive    $darkgrey    $darkgrey    $grey       $black       $black
 client.urgent              $urgentred   $urgentred   $white      $urgentred   $urgentred
