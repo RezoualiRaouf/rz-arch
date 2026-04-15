@@ -1,0 +1,26 @@
+code --list-extensions
+bradlc.vscode-tailwindcss
+cweijan.vscode-mysql-client2
+eamodio.gitlens
+ecmel.vscode-html-css
+esbenp.prettier-vscode
+felixfbecker.php-debug
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+franneck94.c-cpp-runner
+glenn2223.live-sass
+golang.go
+gruntfuggly.todo-tree
+humao.rest-client
+jeff-hykin.better-cpp-syntax
+kisstkondoros.vscode-gutter-preview
+llvm-vs-code-extensions.vscode-clangd
+ms-azuretools.vscode-containers
+ms-azuretools.vscode-docker
+naumovs.color-highlight
+pranaygp.vscode-css-peek
+usernamehw.errorlens
+vadimcn.vscode-lldb
+vscodevim.vim
+vunguyentuan.vscode-css-variables
+yandeu.five-server
